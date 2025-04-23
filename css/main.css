@@ -351,7 +351,7 @@ body {
   border-radius: 10px; /* Скруглённые углы */
   background-color: var(--white); /* Белый фон */
   overflow: hidden; /* Обрезаем содержимое, выходящее за границы */
-  transition: transform 0.3s ease, box-shadow 0.3s ease; /* Плавный переход для увеличения и тени */
+  transition: transform 0.7s ease, box-shadow 0.7s ease; /* Плавный переход для увеличения и тени */
 }
 .project:hover {
   transform: scale(1.05); /* Увеличение карточки на 5% */
